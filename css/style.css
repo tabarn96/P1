@@ -1,0 +1,105 @@
+{
+	font-family: 'Merriwether', serif !important;
+}
+
+body {
+	background-color: #5f9ea0;
+}
+
+div.ab {
+	background-color: #C2C2C2;
+	width: 45%;
+	border: 0px;
+	padding: 30px;
+	margin: auto;
+	color: #FF4545;
+	box-shadow: 20px 20px 50px 15px #d0a1a8;
+}
+
+.button {
+	background-color: #C2C2C2;
+	border: none;
+	color: black;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+.navbar-inverse .navbar-brand {
+	color: black;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: black;
+}
+
+.button1 {
+	border-radius: 50%;
+}
+
+.button2 {
+	border-radius: 50%;
+}
+
+.button3 {
+	border-radius: 50%;
+}
+
+.button4 {
+	border-radius: 50%;
+}
+
+div.f {
+	border: 10px;
+	background-color: #C2C2C2;
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	padding-left: 80px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+	margin-top: 10px;
+}
+
+.right {
+	float: right;
+}
+
+div.h1 {
+	margin: auto
+}
+
+div.h4 {
+	outline-style: solid;
+	outline-color: grey;
+	border: 5px solid grey;
+	padding: 0em 1em;
+	border-radius: 16px;
+	font-size: 24px;
+	line-height: 2;
+	margin: auto;
+	display: inline-block;
+}
+
+img {
+	border-radius: 8px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navbar-inverse {
+    background-color: #5f9ea0;
+    border-color: #5f9ea0;
+}
+.navbar-brand {
+	color: black; !important;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: black;
+    background-color: #5f9ea0;
+}
